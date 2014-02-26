@@ -10,7 +10,6 @@ Catalog 選 Default local (下面snapshot記得打勾)
 
 ================
 
-使用時需要改MRUnit，還有maven-shade-plugin的 
-<mainClass>……</mainClass>
+使用時需要改MRUnit，還有maven-shade-plugin的mainClass
 
 
